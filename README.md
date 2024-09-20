@@ -58,9 +58,3 @@ Aplikasi ini adalah alat enkripsi dan dekripsi berbasis **Tkinter** yang menduku
 - Untuk Hill Cipher, kunci harus terdiri dari minimal 4 karakter yang dapat dibentuk menjadi matriks 2x2.
 - Hill Cipher tidak bisa didekripsi jika determinan dari matriks kunci tidak memiliki invers modulo 26.
 
-## Lisensi
-Aplikasi ini menggunakan lisensi MIT. Silakan merujuk ke file `LICENSE` untuk informasi lebih lanjut.
-
-## Kontributor
-- [Nama Anda](https://github.com/username)
-
